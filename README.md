@@ -10,5 +10,8 @@ With linear regression and long short-term memory (LTSM).
 
 In a graph, the regression line gives the predicted output, i.e., units sold based on the feature.
 
+### Market Data Library
+Market data is retreived via [AlphaVantage](https://www.alphavantage.co) using real-time financial data featuring Comma-Separated-Values (CSV) formats.
+
 ### Resources
 Stock Market Prediction using Machine Learning in Python - [GeeksForGeeks](https://www.geeksforgeeks.org/stock-price-prediction-using-machine-learning-in-python/)
