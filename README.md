@@ -1,5 +1,5 @@
 # Stock Market Prediction
-![Image Alt]()
+![Image Alt](https://github.com/oliviafjardine/Stock-Market-Prediction/blob/b38e113caf4f38505ef9b713a8c8e77fd9219c06/images/stock-market.jpg)
 
 ### The Two Stocks We Will Predict
 1. NVDA (Nvidia)
