@@ -12,4 +12,4 @@ With linear regression and long short-term memory (LTSM). Graphical regression l
 Market data is retreived via [AlphaVantage](https://www.alphavantage.co) using real-time financial data featuring Comma-Separated-Values (CSV) formats.
 
 ## Resources
-Stock Market Prediction using Machine Learning in Python - [GeeksForGeeks](https://www.geeksforgeeks.org/stock-price-prediction-using-machine-learning-in-python/)
+- Stock Market Prediction using Machine Learning in Python - [GeeksForGeeks](https://www.geeksforgeeks.org/stock-price-prediction-using-machine-learning-in-python/)
