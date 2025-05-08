@@ -6,9 +6,7 @@
 2. PLTR (Palantir)
 
 ### How do we predict stocks?
-With linear regression and long short-term memory (LTSM).
-
-In a graph, the regression line gives the predicted output, i.e., units sold based on the feature.
+With linear regression and long short-term memory (LTSM). Graphical regression lines indicates the predicted output, i.e., units sold based on the feature.
 
 ### Market Data Library
 Market data is retreived via [AlphaVantage](https://www.alphavantage.co) using real-time financial data featuring Comma-Separated-Values (CSV) formats.
