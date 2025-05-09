@@ -12,3 +12,4 @@ Market data is retreived via [AlphaVantage](https://www.alphavantage.co) using r
 
 ## Resources
 - "Stock Market Prediction using Machine Learning in Python" - [GeeksForGeeks](https://www.geeksforgeeks.org/stock-price-prediction-using-machine-learning-in-python/)
+- Nvidia Stock Split History - [CompaniesMarketCap](https://companiesmarketcap.com/nvidia/stock-splits/)
