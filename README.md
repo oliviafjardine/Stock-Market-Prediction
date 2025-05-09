@@ -1,9 +1,8 @@
 # Stock Market Prediction
 ![Image Alt](https://github.com/oliviafjardine/Stock-Market-Prediction/blob/b38e113caf4f38505ef9b713a8c8e77fd9219c06/images/stock-market.jpg)
 
-## Two Hot Stocks We Will Predict
-1. NVDA (Nvidia)
-2. PLTR (Palantir)
+## Nvidia
+The hot stock of the market Nvidia has risen remarkably over recent years. Where will it go next?
 
 ## How do we predict stocks?
 With linear regression and long short-term memory (LTSM). Graphical regression lines indicates the predicted output, i.e., units sold based on the feature.
